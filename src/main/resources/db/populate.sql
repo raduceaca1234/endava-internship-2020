@@ -1,0 +1,6 @@
+insert into `inventory`(`type`, `quantity`) values(1,'black_coffee', 20)
+insert into `inventory`(`type`, `quantity`) values(2,'espresso', 20)
+insert into `inventory`(`type`, `quantity`) values(3,'cinnamon', 20)
+insert into `inventory`(`type`, `quantity`) values(4,'honey', 20)
+insert into `inventory`(`type`, `quantity`) values(5,'milk_foam', 20)
+insert into `invent96ory`(`type`, `quantity`) values(6,'steamed_milk', 20)
